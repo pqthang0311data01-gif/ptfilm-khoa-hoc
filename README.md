@@ -13,8 +13,8 @@ https://<ten-tai-khoan>.github.io/ptfilm-khoa-hoc/
 
 | File | Dùng để làm gì |
 |---|---|
-| `index.html` | Nội dung trang web (chữ, bố cục) |
-| `style.css` | Màu sắc, font chữ theo nhận diện PT |
+| `index.html` | Toàn bộ trang web: chữ, bố cục, màu sắc, hiệu ứng |
+| `images/` | Ảnh lớp học, logo, ảnh Mr.Thắng dùng trên trang |
 | `README.md` | File giới thiệu này, GitHub tự hiện ở trang đầu repo |
 
 ## Muốn sửa nội dung
